@@ -22,6 +22,6 @@ By the end of the course you should:
 - Slides \[[source](talk)|[view online]()\]
 - [Genome annotation glossary]()
 - [Reading list]()
-- [Software list]()
+- [Software list](https://github.com/Blahah/TGAC-2014-genome-annotation/wiki/Software-list)
 - [Exercises]()
 - [Genome annotation walkthrough]()
