@@ -33,7 +33,7 @@ Your form should look something like this:
 
 And the `Advanced Options` should look like this:
 
-![RepeatMasker Online Advanced Options Screenshot](repeatmasker_online_screenshot1.png)
+![RepeatMasker Online Advanced Options Screenshot](repeatmasker_online_screenshot2.png)
 
 **Finally**, press `Submit Sequence`.
 
