@@ -11,8 +11,9 @@ We will use the online version of RepeatMasker to analyse a small test sequence 
 #### Creating a test dataset
 
 In this directory, there is a file called `chr1.fa` ([right-click to download](https://raw.githubusercontent.com/Blahah/TGAC-2014-genome-annotation/master/exercises/1_repeats/chr1.fa)). This file contains a small section from the beginning of Rice Chromosome 1.
-2. Open this file in a text editor and scroll to a random point in the sequence.
-3. Copy approximately a full-screen worth of sequence to the clipboard.
+
+1. Open this file in a text editor and scroll to a random point in the sequence.
+2. Copy approximately a full-screen worth of sequence to the clipboard.
 
 
 #### Running RepeatMasker
