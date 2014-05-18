@@ -5,6 +5,16 @@ Course materials for the genome annotation part of the [TGAC SeqAhead course 201
 
 By: Richard Smith-Unna ([Blahah](Https://github.com/Blahah)) <rds45@cam.ac.uk>.
 
+### Using these materials
+
+To download these materials:
+
+```
+git clone https://github.com/Blahah/TGAC-2014-genome-annotation.git
+```
+
+Or just view them online on Github: https://github.com/Blahah/TGAC-2014-genome-annotation
+
 ### Scope
 
 The course covers both structural and functional annotation of plant genomes. Much of the material is applicable to eukaryotic genome annotation in general, but some content is specific to plants.
