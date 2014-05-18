@@ -20,8 +20,8 @@ By the end of the course you should:
 ### Resources:
 
 - Slides \[[source](talk)|[view online]()\]
-- [Genome annotation glossary]()
-- [Reading list]()
+- [Genome annotation glossary](https://github.com/Blahah/TGAC-2014-genome-annotation/wiki/Genome-annotation-glossary)
+- [Reading list](https://github.com/Blahah/TGAC-2014-genome-annotation/wiki/Reading-list)
 - [Software list](https://github.com/Blahah/TGAC-2014-genome-annotation/wiki/Software-list)
-- [Exercises]()
-- [Genome annotation walkthrough]()
+- [Exercises](exercises)
+- [Genome annotation walkthrough](https://github.com/Blahah/TGAC-2014-genome-annotation/wiki/Annotation-pipeline)
