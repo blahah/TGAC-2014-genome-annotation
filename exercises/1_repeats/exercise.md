@@ -185,21 +185,25 @@ GCCGGGTTAACCCATGTACCCAGCGACCCAGCCCACGATACATGGGGTCA
 AAACCTCGTGGGCTTATCCATGAAATTTCATGGGTCATCATGGGCTGACC
 ```
 
-Look closely at the sequences that were identified as repeats and compare them to the surrounding sequence. How different do they look? Could you pick out the repetitive sequence by eye? Do you think the RepeatMasker algorithm has captured the repeats perfectly?
+Look closely at the sequences that were identified as repeats and compare them to the surrounding sequence.
 
-In a real genome annotation project, and when you use a genome annotation in your own experiments, you should always bear in mind that the process is imperfect.
+- How different do they look?
+- Could you pick out the repetitive sequence by eye?
+- Do you think the RepeatMasker algorithm has captured the repeats perfectly?
+
+In a real genome annotation project, and when you use a genome annotation in your own experiments, you should always bear in mind that the process is imperfect. For the time being at least, human curation of machine-generated annotations is still considered the gold standard.
 
 #### Annotation table output
 
-Take a look at the annotation file in your browser by clicking the `Annotation File:` link.
+Take a look at the annotation file in your browser by clicking the `Annotation File:` link. This shows the location of each repeat region, its type and score. In an annotation pipelines, this type of data output would be converted to GFF3 as part of our annotation evidence trail.
 
 #### Adjusting the parameters
 
 The quality of the repeat database and the type of algorithm used will greatly affect the accuracy of the results.
 
-To demonstrate this, re-run the previous analysis on the RepeatMasker website but change some parameters:
+To demonstrate this to your own satisfaction, re-run the previous analysis on the RepeatMasker website but change some parameters, for example:
 
-1. select Arabidopsis or Maize as the reference species - you should see many fewer predicted repeats.
+1. select Arabidopsis or maize as the reference species
 2. select a more sensitive alignment option
 3. select a different BLAST
 
