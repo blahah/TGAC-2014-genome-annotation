@@ -41,8 +41,6 @@ By the end of the course you should:
 ### Resources
 
 - Slides \[[source](talk)|[view online](https://slides.com/richardsmith-unna/annotating-plant-genomes)\]
-- [Genome annotation glossary](https://github.com/Blahah/TGAC-2014-genome-annotation/wiki/Genome-annotation-glossary)
-- [Reading list](https://github.com/Blahah/TGAC-2014-genome-annotation/wiki/Reading-list)
 - [Software list](https://github.com/Blahah/TGAC-2014-genome-annotation/wiki/Software-list)
 - [Exercises](exercises)
-- [Genome annotation walkthrough](https://github.com/Blahah/TGAC-2014-genome-annotation/wiki/Annotation-pipeline)
+- [Genome annotation pipeline](https://github.com/Blahah/TGAC-2014-genome-annotation/wiki/Annotation-pipeline)
