@@ -34,4 +34,6 @@ Your query might take a couple of minutes to run, and then you should see a resu
 
 Examine your results - are there any functinal annotations? If there are none, does this adjust your confidence in the gene model? If there are functional annotations, what can you deduce about the possible function of this gene?
 
+If there were GO terms assigned to your sequence, go to [AmiGO](http://amigo.geneontology.org/amigo) to visualise the GO heirarchy for those terms.
+
 In the example shown above, no specific function has been predicted and no known domains have been identified. However, there are various detailed signature matches that reveal that this is likely to be a membrane-spanning protein with one cytoplasmic side, a transmembrane region, one non-cytoplasmic side and a signal peptide.
