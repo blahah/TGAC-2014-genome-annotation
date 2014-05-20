@@ -7,7 +7,6 @@ In this exercise we will learn how to run RepeatMasker and interpret the results
 
 We will use the online version of RepeatMasker to analyse a small test sequence from the Rice genome.
 
-
 #### Creating a test dataset
 
 In this directory, there is a file called `chr1.fa` ([right-click to download](https://raw.githubusercontent.com/Blahah/TGAC-2014-genome-annotation/master/exercises/1_repeats/chr1.fa)). This file contains a small section from the beginning of Rice Chromosome 1.
@@ -118,10 +117,8 @@ Some things to think about:
 
 Learn more about the functionally/evolutionarily relevant repeats:
 
-- http://www.nature.com/scitable/topicpage/transposons-or-jumping-genes-not-junk-dna-1211
  - [ **Kejnovsky E, Hawkins JS, Feschotte C**. 2012. Plant Transposable Elements: Biology and Evolution. In Plant Genome Diversity Volume 1 (eds. J.F. Wendel, J. Greilhuber, J. Dolezel, and I.J. Leitch), pp. 17–34, Springer Vienna](http://link.springer.com/chapter/10.1007/978-3-7091-1130-7_2) \[[PDF](http://www.springer.com/cda/content/document/cda_downloaddocument/9783709111291-c1.pdf)\]
 - [ **Oliver KR, McComb JA, Greene WK**. 2013. Transposable Elements: Powerful Contributors to Angiosperm Evolution and Diversity. Genome Biol Evol 5: 1886–1901.](http://dx.doi.org/10.1093/gbe/evt141)
-- http://www.ndsu.edu/pubweb/~mcclean/plsc731/Transposable%20Elements%20-%202012.pdf
 - [ **Tenaillon MI, Hollister JD, Gaut BS**. 2010. A triptych of the evolution of plant transposable elements. Trends in Plant Science 15: 471–478.](http://dx.doi.org/10.1016/j.tplants.2010.05.003)
 
 #### Masked sequences
