@@ -40,7 +40,7 @@ By the end of the course you should:
 
 ### Resources
 
-- Slides \[[source](talk)|[view online](https://slides.com/richardsmith-unna/annotating-plant-genomes)\]
+- Slides \[[source](talk) | [view online](https://slides.com/richardsmith-unna/annotating-plant-genomes)\]
 - [Software list](https://github.com/Blahah/TGAC-2014-genome-annotation/wiki/Software-list)
 - [Exercises](exercises)
 - [Genome annotation pipeline](https://github.com/Blahah/TGAC-2014-genome-annotation/wiki/Annotation-pipeline)
